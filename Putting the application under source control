@@ -1,0 +1,2 @@
+git config --global user.name "<REPLACE_WITH_YOUR_NAME>"
+git config --global user.email <REPLACE_WITH_YOUR_EMAIL>
