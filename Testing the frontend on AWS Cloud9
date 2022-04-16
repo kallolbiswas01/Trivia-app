@@ -1,0 +1,2 @@
+nvm install lts/gallium
+nvm alias default lts/gallium
