@@ -1,0 +1,7 @@
+cd ~/environment/trivia-app/
+git init
+git checkout -b main
+git add .
+git commit -m "initial commit"
+git remote add origin codecommit://trivia-app
+git push origin main
