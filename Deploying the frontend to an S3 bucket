@@ -1,0 +1,3 @@
+aws s3 mb s3://<your_initials><numbers>-trivia-app-bucket/
+npm run build
+aws s3 sync --acl public-read build s3://<your_initials><numbers>-trivia-app-bucket/
