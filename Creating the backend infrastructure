@@ -1,0 +1,3 @@
+cd trivia-app
+sam build
+sam deploy --guided
