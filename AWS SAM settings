@@ -1,0 +1,9 @@
+Stack Name [sam-app]: trivia-app
+AWS Region [us-west-2]: <Press Enter or Return>
+#Shows you resources changes to be deployed and require a 'Y' to initiate deploy
+Confirm changes before deploy [y/N]: <Press Enter or Return>
+#SAM needs permission to be able to create roles to connect to the resources in your template
+Allow SAM CLI IAM role creation [Y/n]: <Press Enter or Return>
+Save arguments to configuration file [Y/n]: <Press Enter or Return>
+SAM configuration file [samconfig.toml]: <Press Enter or Return>
+SAM configuration environment [default]: <Press Enter or Return>
